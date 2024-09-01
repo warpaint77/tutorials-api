@@ -24,7 +24,7 @@ A REST API desenvolvida com a utilização do Nodejs 18.12.0, NPM 8.19.2 e Nestj
 
 Após iniciar API, Swagger estará disponível em: http://localhost:3000/swagger/
 
-#Testes unitários
+# Testes unitários
 
 Verificação da cobertura de testes unitários através do comando: npm run test:cov
 
